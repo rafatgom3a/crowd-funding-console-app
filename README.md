@@ -37,9 +37,6 @@ Crowdfunding is a powerful way to bring ideas to life by raising small contribut
 
 ---
 
-
----
-
 ## ▶️ Getting Started
 
 1. **Clone the project**
