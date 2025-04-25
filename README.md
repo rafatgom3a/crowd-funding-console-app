@@ -43,8 +43,8 @@ Crowdfunding is a powerful way to bring ideas to life by raising small contribut
 ## ▶️ Getting Started
 
 1. **Clone the project**
-   git clone https://github.com/yourusername/crowdfunding-console-app.git
-   cd crowdfunding-console-app
+   - git clone https://github.com/rafatgom3a/crowd-funding-console-app
+   - cd crowd-funding-console-app
    
 3. **Run the main script**
-   python main.py
+   - python main.py
